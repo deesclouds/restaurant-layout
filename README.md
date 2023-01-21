@@ -21,7 +21,7 @@ I am still working on the responsiveness of this project and will need to refrac
 
 **Lessons Learned:**
 
-Got this idea from the 100Devs to build a restaurant template to help those struggling during the pandemic thrive and gain a larger audience by helping improve their web presence.
+Got this idea from the 100Devs to build a [restaurant template](https://communitytaught.org/img/resources/restaurant.png) to help those struggling during the pandemic thrive and gain a larger audience by helping improve their web presence.
 
 **Thank You!**
 
